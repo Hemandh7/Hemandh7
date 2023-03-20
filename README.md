@@ -1,13 +1,9 @@
 ### Hi there 👋
 
 I am Hemandh
-
-
-## 🚀 About Me
 I'm a full stack developer...
 
-
-
+## 🚀 About Me
 Results-oriented web
 developer, offering extensive
 experience in design and
