@@ -45,8 +45,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp;   <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" style="width: 50px; height: 50px; margin: 5px;" alt="">
   &nbsp; &nbsp; &nbsp; &nbsp;   <img src="https://play-lh.googleusercontent.com/9zvNJHedNg_6lOdwcodODMVsyeHKxuTIpnbBzomRGGZAp_vKVXnd5SlF8XZcXyGYjQ" style="width: 50px; height: 50px; margin: 5px;" alt="">
  &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://reactnative.dev/img/header_logo.svg" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
+   <h2 align="center" dir="auto"></h2>
   &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="width: 50px; height: 50px; margin-bottom: 5px;" alt=""> 
-  <h2 align="center" dir="auto"></h2>
  &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
     &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
      &nbsp; &nbsp; &nbsp; &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="width: 50px; height: 50px; margin-bottom: 5px;" alt="">
